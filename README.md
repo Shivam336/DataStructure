@@ -1,2 +1,2 @@
 # DataStructure
-Contains Implementation of LinkedList in java
+Contains Implementation of different type of data structures in java
